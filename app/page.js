@@ -1,3 +1,4 @@
+
 'use client'
 
 import { useState, useEffect } from 'react'
@@ -142,7 +143,7 @@ export default function Home() {
           {inventory.map(({name, quantity}) => (
             <Box
               key={name}
-              width="100%"
+              width="90%"
               minHeight="150px"
               display={'flex'}
               justifyContent={'space-between'}

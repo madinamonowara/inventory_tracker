@@ -1,6 +1,5 @@
 {
   "name": "inventory_tracker",
-  "export" : "next export",
   "version": "0.1.0",
   "private": true,
   "scripts": {
